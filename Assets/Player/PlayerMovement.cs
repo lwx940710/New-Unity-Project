@@ -36,6 +36,7 @@ public class PlayerMovement : MonoBehaviour {
         if (collision.collider.tag == "Obstacles")
         {
             this.enabled = false;
+            FindObjectOfType<GameManager>().GameOver();
         }
     }
 }

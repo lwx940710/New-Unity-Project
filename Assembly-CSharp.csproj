@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Enviroment\FollowPlayer.cs" />
+    <Compile Include="Assets\Enviroment\GameManager.cs" />
     <Compile Include="Assets\Enviroment\Score.cs" />
     <Compile Include="Assets\Player\PlayerMovement.cs" />
     <Reference Include="UnityEditor.StandardEvents">
