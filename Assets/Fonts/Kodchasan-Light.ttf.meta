@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 49a94f68cfbab1545ab6ea53d3d4d7e6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kodchasan Light
+  fontNames:
+  - Kodchasan Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1c91a202a450b9042a05c509d8fc2d89, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
