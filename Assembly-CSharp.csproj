@@ -65,7 +65,9 @@
     <Compile Include="Assets\Enviroment\FollowPlayer.cs" />
     <Compile Include="Assets\Enviroment\GameManager.cs" />
     <Compile Include="Assets\Enviroment\NextLevel.cs" />
+    <Compile Include="Assets\Enviroment\Quit.cs" />
     <Compile Include="Assets\Enviroment\Score.cs" />
+    <Compile Include="Assets\Enviroment\Start.cs" />
     <Compile Include="Assets\Player\PlayerMovement.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/UnityProjects/New Unity Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
